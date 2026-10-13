@@ -8,13 +8,12 @@
 **CCG Agents · Team Lead**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,git,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,python,linux&theme=dark" alt="Tech Stack" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/ITMO-University-6C63FF?style=flat-square" alt="ITMO" />
   <img src="https://img.shields.io/badge/Focus-Software_Development-333333?style=flat-square" alt="Software Development" />
-  <img src="https://img.shields.io/badge/AI-Claude_Agents-D97757?style=flat-square" alt="Claude Agents" />
 </p>
 
 *Learn how it works. Build something better.*

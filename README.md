@@ -49,7 +49,7 @@ int main(void) {
 | C          | Learning...|
 | Python     | Learning...| 
 
-### 04 / GitHub Statistics 📊
+### 03 / GitHub Statistics 📊
 
 <div align="center">
 
